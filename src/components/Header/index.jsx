@@ -1,7 +1,7 @@
-import React from `react`
+
 
 const Header = () => {
-    returno (
+    return (
         <h1>Ola Mundo 2</h1>
     )
 }
